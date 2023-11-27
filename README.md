@@ -6,7 +6,7 @@
 * _Too much confusion - can't find the answers and by the time I find the answers, can't remember the question!_
 * So I decided to create a hierarcy and organization
 
-> ***Note : Monikers like _Defender Dossier_ and _Metric Minds_ were suggested by ChatGPT. So don't blame me !***
+> ***Note : Monikers like _Defender Dossier_ and _Metric Minds_ were suggested by ChatGPT. So don't blame me. Mr.Altman is the culprit !***
 
 | Repository | Description | 
 | - | - |
