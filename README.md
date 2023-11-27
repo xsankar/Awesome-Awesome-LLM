@@ -1,5 +1,5 @@
-# Awesome-Awesome-LLM
-Double Integral ! Portal for all awesome-LLM* repos i.e. AIWizards: Generative Spells in Papers
+## Awesome-Awesome-LLM
+* Double Integral ! Portal for all awesome-LLM* repos i.e. AIWizards: Generative Spells in Papers
 ***
 ## List of my awesome-llm-* repositories (A TOC for my curations)
 * I had ~400 tabs on my browser and pages of links in my Oomnioutliner. So I decided to create a hierarcy and organization !
