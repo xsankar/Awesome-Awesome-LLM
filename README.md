@@ -20,7 +20,7 @@ Double Integral ! Portal for all awesome-LLM* repos i.e. AIWizards: Generative S
 *No order, yet
    
 | Repository | Description | 
-| :-: | :-: |
+| :- | :- |
 | https://github.com/HqWu-HITCS/Awesome-LLM-Survey | Contains survey papers for a host of LLM properties |
 | https://github.com/sanjibnarzary/awesome-llm | |
 | https://github.com/MLNLP-World/Awesome-LLM | |
