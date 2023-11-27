@@ -17,7 +17,7 @@
 | [Awesome-LLM-Attribution-Watermark](https://github.com/xsankar/Awesome-LLM-Attribution-Watermark) | All things attribution plus things on watermarking |
 ***
 ## List of awesome-llm repositories out there
-*No order, yet
+* No order, yet
    
 | Repository | Description | 
 | :- | :- |
