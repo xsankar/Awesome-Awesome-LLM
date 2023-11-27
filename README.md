@@ -6,12 +6,12 @@ Double Integral ! Portal for all awesome-LLM* repos i.e. AIWizards: Generative S
 
 | Repository | Description | 
 | :-: | :-: |
-| [LLMSec-DefenderDossier](https://github.com/xsankar/LLMSec-DefenderDossier) | Awesome-LLMSec. Top Portal for All things LLM Security & Red Teaming Generative AI |
-| [awesome-LLM-Eval-MetricMinds](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds) | LLM Evaluation - Paper collection, frameworks and so forth|
+| [LLMSec-DefenderDossier](https://github.com/xsankar/LLMSec-DefenderDossier) | Awesome-LLMSec. Top Portal for All things LLM Security - kind of a TOC. Probably redundant with this one. I will add LLMSec related public repositories there |
+| [Awesome-LLM-Eval-MetricMinds](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds) | LLM Evaluation - Paper collection, frameworks and so forth|
 | [LLM-RedOps-Tactics ](https://github.com/xsankar/LLM-RedOps-Tactics) | a.k.a. Awesome-LLM-Red-Teaming - LLM Red Teaming methodologies, frameworks, results and also Paper collections|
 | [Awesome-LLM-RAG](https://github.com/xsankar/Awesome-LLM-RAG) | All things Retrieval Augmentation - Vector DB et al |
-| https://github.com/formulahendry/awesome-gpt | |
-| https://github.com/Barnacle-ai/awesome-llm-list | |
+| [Awesome-LLM-Engineering-Blueprints](https://github.com/xsankar/Awesome-LLM-Engineering-Blueprints) | Ops, Production, Training, Fine tuning and other LLM build artifacts|
+| [Awesome-LLM-Prompting a.k.a. PromptOps](https://github.com/xsankar/Awesome-LLM-Prompting) | All things related to PromptOps - Development, Experimentation, Monitoring, Optimization and so forth |
 | https://github.com/LeslieLeung/my-awesome-llm | |
 ***
 ## List of awesome-llm repositories out there
