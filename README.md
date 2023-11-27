@@ -6,8 +6,8 @@ Double Integral ! Portal for all awesome-LLM* repos i.e. AIWizards: Generative S
 
 | Repository | Description | 
 | :-: | :-: |
-| [LLMSec-DefenderDossier](https://github.com/xsankar/LLMSec-DefenderDossier) | Awesome-LLMSec. Top Portal for All things LLM Security - kind of a TOC. Probably redundant with this one. I will add LLMSec related public repositories there |
-| [Awesome-LLM-Eval-MetricMinds](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds) | LLM Evaluation - Paper collection, frameworks and so forth|
+| [LLMSec-DefenderDossier](https://github.com/xsankar/LLMSec-DefenderDossier) | Awesome-LLMSec - _Defender Dossier_ looked like a good moniker-ChatGPT suggested it, so don't blame me ! . Top Portal for All things LLM Security - kind of a TOC. Probably redundant with this one. I will add LLMSec related public repositories there |
+| [Awesome-LLM-Eval-MetricMinds](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds) | _metric Minds_ looked like a good moniker. ChatGPT suggested, so don't blame me ! LLM Evaluation - Paper collection, frameworks and so forth|
 | [LLM-RedOps-Tactics ](https://github.com/xsankar/LLM-RedOps-Tactics) | a.k.a. Awesome-LLM-Red-Teaming - LLM Red Teaming methodologies, frameworks, results and also Paper collections|
 | [Awesome-LLM-RAG](https://github.com/xsankar/Awesome-LLM-RAG) | All things Retrieval Augmentation - Vector DB et al |
 | [Awesome-LLM-Engineering-Blueprints](https://github.com/xsankar/Awesome-LLM-Engineering-Blueprints) | Ops, Production, Training, Fine tuning and other LLM build artifacts|
