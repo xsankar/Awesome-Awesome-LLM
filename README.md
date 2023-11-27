@@ -1,12 +1,12 @@
 # awesome-awesome-LLM
 Double Integral ! Portal for all awesome-LLM* repos i.e. AIWizards: Generative Spells in Papers
 ***
-## List of awesome-llm-* repositories (curated by me)
+## List of awesome-llm-* repositories (a TOC for my curations)
 * I had ~400 tabs on my browser and pages of links in my omnioutliner. So I decided to create a hierarcy and organization !
 
 | Repository | Description | 
 | :-: | :-: |
-| https://github.com/HqWu-HITCS/Awesome-LLM-Survey | Contains survey papers for a host of LLM properties |
+| [LLMSec-DefenderDossier](https://github.com/xsankar/LLMSec-DefenderDossier) | Awesome-LLMSec |
 | https://github.com/sanjibnarzary/awesome-llm | |
 | https://github.com/MLNLP-World/Awesome-LLM | |
 | https://github.com/TikkunCreation/awesome-llm | |
