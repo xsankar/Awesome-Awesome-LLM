@@ -13,4 +13,4 @@ Double Integral ! Portal for all awesome-LLM* repos i.e. AIWizards: Generative S
 | https://github.com/Barnacle-ai/awesome-llm-list | |
 | https://github.com/HqWu-HITCS/Awesome-LLM-Survey | |
 | https://github.com/LeslieLeung/my-awesome-llm | |
-| :-: | :-: |
+
