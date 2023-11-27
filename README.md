@@ -6,7 +6,7 @@ Double Integral ! Portal for all awesome-LLM* repos i.e. AIWizards: Generative S
 * Monikers like _Defender Dossier_ and _Metric Minds_ were suggested by ChatGPT. So don't blame me !
 
 | Repository | Description | 
-| :- | :- |
+| - | - |
 | [LLMSec-DefenderDossier](https://github.com/xsankar/LLMSec-DefenderDossier) | a.k.a. Awesome-LLMSec. Top Portal for All things LLM Security - kind of a TOC. Probably redundant with this one. I will add LLMSec related public repositories there |
 | [Awesome-LLM-Eval-MetricMinds](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds) | a.k.a. Metric Minds. LLM Evaluation - Paper collection, frameworks and so forth|
 | [LLM-RedOps-Tactics ](https://github.com/xsankar/LLM-RedOps-Tactics) | a.k.a. Awesome-LLM-Red-Teaming - LLM Red Teaming methodologies, frameworks, results and also Paper collections|
