@@ -3,8 +3,8 @@
 ***
 ## List of my awesome-llm-* repositories (A TOC for my curations)
 > I had ~400 tabs on my browser plus hundreds of link pages in my Oomnioutliner.
->> Too much confusion - can't find the answers and by the time I find the answers, can't remember the question!
->> So I decided to create a hierarcy and organization.
+* Too much confusion - can't find the answers and by the time I find the answers, can't remember the question!
+> So I decided to create a hierarcy and organization.
 > Monikers like _Defender Dossier_ and _Metric Minds_ were suggested by ChatGPT. So don't blame me !
 
 | Repository | Description | 
