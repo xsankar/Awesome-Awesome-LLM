@@ -12,7 +12,8 @@ Double Integral ! Portal for all awesome-LLM* repos i.e. AIWizards: Generative S
 | [Awesome-LLM-RAG](https://github.com/xsankar/Awesome-LLM-RAG) | All things Retrieval Augmentation - Vector DB et al |
 | [Awesome-LLM-Engineering-Blueprints](https://github.com/xsankar/Awesome-LLM-Engineering-Blueprints) | Ops, Production, Training, Fine tuning and other LLM build artifacts|
 | [Awesome-LLM-Prompting a.k.a. PromptOps](https://github.com/xsankar/Awesome-LLM-Prompting) | All things related to PromptOps - Development, Experimentation, Monitoring, Optimization and so forth |
-| https://github.com/LeslieLeung/my-awesome-llm | |
+| [Awesome-LLM-RL](https://github.com/xsankar/Awesome-LLM-RL) | All things Reinforcement Learning - RLHF and so forth |
+| [Awesome-LLM-Attribution-Watermark](https://github.com/xsankar/Awesome-LLM-Attribution-Watermark) | All things attribution plus things on watermarking |
 ***
 ## List of awesome-llm repositories out there
 *No order, yet
