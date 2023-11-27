@@ -5,6 +5,7 @@ Double Integral ! Portal for all awesome-LLM* repos i.e. AIWizards: Generative S
 * I had ~400 tabs on my browser and pages of links in my omnioutliner. So I decided to create a hierarcy and organization !
 
 | Repository | Description | 
+| :-: | :-: |
 | [LLMSec-DefenderDossier](https://github.com/xsankar/LLMSec-DefenderDossier) | Awesome-LLMSec. Top Portal for All things LLM Security - kind of a TOC. Probably redundant with this one. I will add LLMSec related public repositories there |
 | [Awesome-LLM-Eval-MetricMinds](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds) | LLM Evaluation - Paper collection, frameworks and so forth|
 | [LLM-RedOps-Tactics ](https://github.com/xsankar/LLM-RedOps-Tactics) | a.k.a. Awesome-LLM-Red-Teaming - LLM Red Teaming methodologies, frameworks, results and also Paper collections|
