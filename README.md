@@ -3,10 +3,11 @@ Double Integral ! Portal for all awesome-LLM* repos i.e. AIWizards: Generative S
 ***
 ## List of my awesome-llm-* repositories (A TOC for my curations)
 * I had ~400 tabs on my browser and pages of links in my Oomnioutliner. So I decided to create a hierarcy and organization !
-
+* Monikers like _Defender Dossier_ and _Metric Minds_ were suggested by ChatGPT. So don't blame me !
 | Repository | Description | 
 | :-: | :-: |
-| [LLMSec-DefenderDossier](https://github.com/xsankar/LLMSec-DefenderDossier) | Awesome-LLMSec - _Defender Dossier_ looked like a good moniker-ChatGPT suggested it, so don't blame me ! . Top Portal for All things LLM Security - kind of a TOC. Probably redundant with this one. I will add LLMSec related public repositories there |
+| [LLMSec-DefenderDossier](https://github.com/xsankar/LLMSec-DefenderDossier) | a.k.a. Awesome-LLMSec. 
+Top Portal for All things LLM Security - kind of a TOC. Probably redundant with this one. I will add LLMSec related public repositories there |
 | [Awesome-LLM-Eval-MetricMinds](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds) | _metric Minds_ looked like a good moniker. ChatGPT suggested, so don't blame me ! LLM Evaluation - Paper collection, frameworks and so forth|
 | [LLM-RedOps-Tactics ](https://github.com/xsankar/LLM-RedOps-Tactics) | a.k.a. Awesome-LLM-Red-Teaming - LLM Red Teaming methodologies, frameworks, results and also Paper collections|
 | [Awesome-LLM-RAG](https://github.com/xsankar/Awesome-LLM-RAG) | All things Retrieval Augmentation - Vector DB et al |
