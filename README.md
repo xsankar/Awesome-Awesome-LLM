@@ -1,6 +1,7 @@
 ## Awesome-Awesome-LLM
 > Double Integral ! Portal for all awesome-LLM* repos i.e. ***"AIWizards: Generative Spells in Papers"***
-> [About Me](https://www.llinkedin.com/in/ksankar) [Blog] (https://ksankar.medium.com)
+> 
+> [About Me](https://www.llinkedin.com/in/ksankar) [Blog](https://ksankar.medium.com)
 ***
 ## List of my awesome-llm-* repositories (A TOC for my curations)
 > I had ~400 tabs on my browser plus hundreds of link pages in my Oomnioutliner.
