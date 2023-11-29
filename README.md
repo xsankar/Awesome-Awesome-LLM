@@ -21,6 +21,7 @@
 | [Awesome-LLM-Engineering-Blueprints](https://github.com/xsankar/Awesome-LLM-Engineering-Blueprints) | Ops, Production, Training, Fine tuning and other LLM build artifacts|
 | [Awesome-LLM-RL](https://github.com/xsankar/Awesome-LLM-RL) | All things Reinforcement Learning - RLHF and so forth |
 | [Awesome-LLM-Attribution-Watermark](https://github.com/xsankar/Awesome-LLM-Attribution-Watermark) | All things attribution plus things on watermarking |
+| [Generative AI for Cyber](https://github.com/xsankar/GenAI-for-Cyber) | Applications for Cyber, Adverserial analysis and so forth applying Generative AI paradigms |
 ***
 ## List of awesome-llm repositories out there
 * No order, yet
