@@ -7,7 +7,7 @@
 > | :- |
 > 
 ***
-## List of my awesome-llm-* repositories (A TOC for my curations)
+## List of my awesome-LLM-* repositories (A TOC for my curations)
 > I had ~400 tabs on my browser plus hundreds of link pages in my Oomnioutliner.
 * _Too much confusion - can't find the answers ... by the time I find the answers, can't remember the question anymore !_
 * So I decided to create a hierarcy and organization
