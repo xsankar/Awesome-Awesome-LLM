@@ -3,7 +3,8 @@
 > 
 > > [About Me](https://www.linkedin.com/in/ksankar) [Blog](https://ksankar.medium.com)
 > 
-> ***As of 11.30.23 I am working hard to build the repos - takes time to review and curate. Appreciate your patience ... Thanks ...***
+> |***As of 11.30.23 I am working hard to build the repos - takes time to review and curate. Appreciate your patience ... Thanks ...***|
+> | :- |
 > 
 ***
 ## List of my awesome-llm-* repositories (A TOC for my curations)
