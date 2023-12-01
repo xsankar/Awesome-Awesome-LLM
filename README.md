@@ -2,14 +2,15 @@
 > Double Integral ! Portal for all awesome-LLM* repos i.e. ***"AIWizards: Generative Spells in Papers"***
 > 
 > > [About Me](https://www.linkedin.com/in/ksankar) [Blog](https://ksankar.medium.com)
+> 
+> ***As of 11.30.23 I am working hard to build the repos - takes time to review and curate. Appreciate your patience ... Thanks ...***
+> 
 ***
 ## List of my awesome-llm-* repositories (A TOC for my curations)
 > I had ~400 tabs on my browser plus hundreds of link pages in my Oomnioutliner.
 * _Too much confusion - can't find the answers ... by the time I find the answers, can't remember the question anymore !_
 * So I decided to create a hierarcy and organization
->
-> ***As of 11.30.23 I am working hard to build the repos - takes time to review and curate. Appreciate your patience ... Thanks ...***
->
+
 > ***Note : Monikers like _Defender Dossier_ and _Metric Minds_ were suggested by ChatGPT. So don't blame me. Mr.Altman is the culprit !***
 
 | Repository | Description | 
