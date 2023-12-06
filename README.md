@@ -39,4 +39,5 @@
 | https://github.com/formulahendry/awesome-gpt | |
 | https://github.com/Barnacle-ai/awesome-llm-list | |
 | https://github.com/LeslieLeung/my-awesome-llm | |
+| https://github.com/iwangjian/Paper-Reading | NLP Papers |
 
