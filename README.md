@@ -26,7 +26,6 @@
 | [Awesome-LLM-RL](https://github.com/xsankar/Awesome-LLM-RL) | All things Reinforcement Learning - RLHF and so forth |
 | [Awesome-LLM-Attribution-Watermark](https://github.com/xsankar/Awesome-LLM-Attribution-Watermark) | All things attribution plus things on watermarking |
 | [Generative AI for Cyber](https://github.com/xsankar/GenAI-for-Cyber) | Applications for Cyber, Adverserial analysis and so forth applying Generative AI paradigms |
-| [Large Language Model (LLM) Interpretability](https://github.com/JShollaj/awesome-llm-interpretability) | A curated list of amazingly awesome tools, papers, articles, and communities focused on Large Language Model (LLM) Interpretability |
 ***
 ## List of awesome-llm repositories out there
 * No order, yet
@@ -41,4 +40,4 @@
 | https://github.com/Barnacle-ai/awesome-llm-list | |
 | https://github.com/LeslieLeung/my-awesome-llm | |
 | https://github.com/iwangjian/Paper-Reading | NLP Papers |
-
+| https://github.com/JShollaj/awesome-llm-interpretability | A curated list of amazingly awesome tools, papers, articles, and communities focused on Large Language Model (LLM) Interpretability |
