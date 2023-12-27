@@ -1,8 +1,8 @@
 ## Awesome-Awesome-LLM
+| [About Me](https://www.linkedin.com/in/ksankar) | [Blog](https://ksankar.medium.com) |
+| :- | :- |
 > Double Integral ! Portal for all awesome-LLM* repos i.e. ***"AIWizards: Generative Spells in Papers"***
-> 
-> > [About Me](https://www.linkedin.com/in/ksankar) [Blog](https://ksankar.medium.com)
-> 
+>
 > |***As of 11.30.23, I am working hard to build the repos - takes time to review and curate. Appreciate your patience ... Thanks ...***|
 > | :- |
 > 
