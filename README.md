@@ -23,9 +23,10 @@
 | [Awesome-LLM-Prompting](https://github.com/xsankar/Awesome-LLM-Prompting) | a.k.a. PromptOps. All things related to PromptOps - Development, Experimentation, Monitoring, Optimization and so forth |
 | [LLMSec-DefenderDossier](https://github.com/xsankar/LLMSec-DefenderDossier) | a.k.a. Awesome-LLMSec. Top Portal for All things LLM Security - kind of a TOC. Probably redundant with this one. I will add LLMSec related public repositories there |
 | [Awesome-LLM-RAG](https://github.com/xsankar/Awesome-LLM-RAG) | All things Retrieval Augmentation - Vector DB et al |
-| [Awesome-LLM-Engineering-Blueprints](https://github.com/xsankar/Awesome-LLM-Engineering-Blueprints) | Ops, Production, Training, Fine tuning and other LLM build artifacts|
+| [Awesome-LLM-Engineering](https://github.com/xsankar/Awesome-LLM-Engineering) | Ops, Production, Training, Fine tuning and other LLM build artifacts & Blueprints|
 | [Awesome-LLM-RL](https://github.com/xsankar/Awesome-LLM-RL) | All things Reinforcement Learning - RLHF and so forth |
 | [Awesome-LLM-Attribution-Watermark](https://github.com/xsankar/Awesome-LLM-Attribution-Watermark) | All things attribution plus things on watermarking |
+| [Awesome-NuerIPS 2023](https://github.com/xsankar/Awesome-neurips-2023) | Observations & Intereetsing papers |
 | [Generative AI for Cyber](https://github.com/xsankar/GenAI-for-Cyber) | Applications for Cyber, Adverserial analysis and so forth applying Generative AI paradigms |
 ***
 ## List of awesome-llm repositories out there
