@@ -1,5 +1,5 @@
 ## Awesome-Awesome-LLM
-| [About Me]([https://www.linkedin.com/in/ksankar](https://ksankar.medium.com/about-me-the-pitter-patter-of-small-feats-de22f4c36ea6)) | [Blog](https://ksankar.medium.com) |
+| [About Me](https://ksankar.medium.com/about-me-the-pitter-patter-of-small-feats-de22f4c36ea6) | [Blog](https://ksankar.medium.com) |
 | :- | :- |
 > Double Integral ! Portal for all awesome-LLM* repos i.e. ***"AIWizards: Generative Spells in Papers"***
 >
