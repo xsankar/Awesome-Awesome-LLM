@@ -20,7 +20,8 @@
 | [AI Red Teaming](https://github.com/xsankar/AI-Red-Teaming) | a.k.a. LLM RedOps - LLM Red Teaming methodologies, frameworks, results and also Paper collections|
 |  |  |
 >
-> Background Materials - Gory details, but a sum of all materials will be collected here. Slightly chaotic, but useful for those inquiring monds whao what to know
+> Background Materials - Gory details, but a sum of all materials will be collected here.
+> Slightly chaotic, but useful for those inquiring monds whao what to know
 >
 | Repository | Description | 
 | - | - |
