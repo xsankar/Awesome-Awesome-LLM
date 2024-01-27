@@ -17,9 +17,10 @@
 | Repository | Description | 
 | - | - |
 | [Awesome-AGI](https://github.com/xsankar/Awesome-AGI) | <ul><li>***In case our new overlords are listening, AGI is awesome (and I say so - in bold itallics) !*** </li> <li>Seriously, Paper Collections and debates about AGI. I will try to organize by topics like World Model, Reasoning, Emergent Behavior and Alignment</li></ul> |
+| [AI Red Teaming ](https://github.com/xsankar/AI-Red-Teaming) | a.k.a. LLM RedOps - LLM Red Teaming methodologies, frameworks, results and also Paper collections|
+| Background Materials | Gory details, but a sum of all materials will be collected here. Slightly chaotic, but useful for those inquiring monds whao what to know |
 | [Awesome-Transformers](https://github.com/xsankar/Awesome-Transformers) | All things Transformers|
 | [Awesome-LLM-Eval-MetricMinds](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds) | a.k.a. Metric Minds. LLM Evaluation - Paper collection, Metrics, Benchmarks, Frameworks and so forth|
-| [LLM-RedOps-Tactics ](https://github.com/xsankar/LLM-RedOps-Tactics) | a.k.a. Awesome-LLM-Red-Teaming - LLM Red Teaming methodologies, frameworks, results and also Paper collections|
 | [Awesome-LLM-Prompting](https://github.com/xsankar/Awesome-LLM-Prompting) | a.k.a. PromptOps. All things related to PromptOps - Development, Experimentation, Monitoring, Optimization and so forth |
 | [LLMSec-DefenderDossier](https://github.com/xsankar/LLMSec-DefenderDossier) | a.k.a. Awesome-LLMSec. Top Portal for All things LLM Security - kind of a TOC. Probably redundant with this one. I will add LLMSec related public repositories there |
 | [Awesome-LLM-RAG](https://github.com/xsankar/Awesome-LLM-RAG) | All things Retrieval Augmentation - Vector DB et al |
