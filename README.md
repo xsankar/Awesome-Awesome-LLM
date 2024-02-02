@@ -1,7 +1,7 @@
 ## Awesome-Awesome-LLM
 | [About Me](https://ksankar.medium.com/about-me-the-pitter-patter-of-small-feats-de22f4c36ea6) | [Blog](https://ksankar.medium.com) |
 | :- | :- |
-> Double Integral ! Portal for all awesome-LLM* repos i.e. ***"AIWizards: Generative Spells in Papers"***
+> Inspired by the awesome-* trend on GitHub. Double Integral ! Portal for all awesome-LLM* repos i.e. ***"AIWizards: Generative Spells in Papers"***
 >
 > |***As of 11.30.23, I am working hard to build the repos - takes time to review and curate. Appreciate your patience ... Thanks ...***|
 > | :- |
@@ -15,7 +15,7 @@
 > ***Note : Monikers like _Defender Dossier_ and _Metric Minds_ were suggested by ChatGPT. So don't blame me. Mr.Altman is the culprit !***
 
 | Repository | Description | 
-| - | - |
+| :- | :- |
 | [Awesome-AGI](https://github.com/xsankar/Awesome-AGI) | <ul><li>***In case our new overlords are listening, AGI is awesome - and I say so - in bold itallics!*** </li> <li>Seriously, Paper Collections and debates about AGI. I will try to organize by topics like World Model, Reasoning, Emergent Behavior and Alignment</li></ul> |
 | [AI Red Teaming](https://github.com/xsankar/AI-Red-Teaming) | a.k.a. LLM RedOps - LLM Red Teaming methodologies, frameworks, results and also Paper collections|
 |  |  |
@@ -24,7 +24,7 @@
 > Slightly chaotic, but useful for those inquiring monds whao what to know
 >
 | Repository | Description | 
-| - | - |
+| :- | :- |
 | [Awesome-Transformers](https://github.com/xsankar/Awesome-Transformers) | All things Transformers|
 | [Awesome-LLM-Eval-MetricMinds](https://github.com/xsankar/awesome-LLM-Eval-MetricMinds) | a.k.a. Metric Minds. LLM Evaluation - Paper collection, Metrics, Benchmarks, Frameworks and so forth|
 | [Awesome-LLM-Prompting](https://github.com/xsankar/Awesome-LLM-Prompting) | a.k.a. PromptOps. All things related to PromptOps - Development, Experimentation, Monitoring, Optimization and so forth |
