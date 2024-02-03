@@ -18,7 +18,8 @@
 | :- | :- |
 | [Awesome-AGI](https://github.com/xsankar/Awesome-AGI) | <ul><li>***In case our new overlords are listening, AGI is awesome - and I say so - in bold itallics!*** </li> <li>Seriously, Paper Collections and debates about AGI. I will try to organize by topics like World Model, Reasoning, Emergent Behavior and Alignment</li></ul> |
 | [AI Red Teaming](https://github.com/xsankar/AI-Red-Teaming) | a.k.a. LLM RedOps - LLM Red Teaming methodologies, frameworks, results and also Paper collections|
-|  |  |
+| [Awesome NIST](https://github.com/xsankar/Awesome-NIST/blob/main/README.md) | All things NIST. But more focus on Generative AI stuff |
+| | |
 >
 > Background Materials - Gory details, but a sum of all materials will be collected here.
 > Slightly chaotic, but useful for those inquiring monds whao what to know
